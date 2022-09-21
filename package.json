@@ -1,0 +1,27 @@
+{
+  "name": "animefenix-url-seeker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AnimeFenixDownload.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.2",
+    "playwright": "^1.25.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nahuelgrc/animefenix-url-seeker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Nahuelgrc/animefenix-url-seeker/issues"
+  },
+  "homepage": "https://github.com/Nahuelgrc/animefenix-url-seeker#readme"
+}
